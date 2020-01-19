@@ -9,4 +9,5 @@ Run the command lines bellow:
 
 **To use on a daily basis**
 - <code> git clone url-copy-from-the-project-on-github </code> -> copy the project to your machine
-
+- <code> git checkout -b name_your_branch </code> -> create a new branch and move to this branch
+- <code> git status </code> -> show the files that have some pending change
